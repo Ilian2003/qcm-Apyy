@@ -1,0 +1,34 @@
+/* styles.css */
+h1 {
+    font-size: 3.2em;
+}
+body {
+    font-family: Times, sans-serif;
+    background-color: #690000;
+    text-align: center;
+}
+
+.qcm-container {
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 50px auto;
+    width: 500px;
+    box-shadow: 0 0 100px rgba(255, 255, 255, 0.45);
+}
+
+.qcm-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.question {
+    font-size: 2.2em;
+    margin-bottom: 30px;
+}
+
+#resultat {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
